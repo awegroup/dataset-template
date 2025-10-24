@@ -57,3 +57,14 @@ This dataset is distributed under the
 Example:  
 This project *MERIDIONAL* received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement No [101084216](https://doi.org/10.3030/101084216).  
 The opinions expressed are those of the authors and do not necessarily reflect the views of the European Commission.
+
+## WAIVER
+
+Technische Universiteit Delft hereby disclaims all copyright interest in the package written by the Author(s). Prof.dr. H.G.C. (Henri) Werij, Dean of Aerospace Engineering.
+
+## Copyright
+
+Copright(c) ✏️ *{insert year author_name}*
+
+Example:
+Copyright (c) 2025 Roland Schmehl
