@@ -2,6 +2,8 @@
 
 ✏️ *{Provide a brief overview of the dataset, including its purpose, origin, and key contents. Mention what the data represent (e.g. measurements, simulations, processed results, etc.).}*
 
+A good example repo is: [Flightdata12052023](https://github.com/awegroup/Flightdata12052023).
+
 ---
 
 ## Terms of Use
