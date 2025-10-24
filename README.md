@@ -29,7 +29,7 @@ Example:
 ⚠️ *List related publications or reports describing the dataset or its generation.*
 
 Example:
-> Schmehl, R., et al. (2025). *High-resolution RANS simulations of a leading-edge inflatable kite.* Delft University of Technology. https://doi.org/xx.xxxx/zenodo.xxxxx
+> Schmehl, R., et al. (2025). *AWE study....* Delft University of Technology. https://doi.org/xx.xxxx/zenodo.xxxxx
 
 ---
 
