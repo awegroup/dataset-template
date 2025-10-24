@@ -21,6 +21,7 @@ Example:
 /raw_data/ – original experimental measurements
 /processed/ – filtered or derived data
 /docs/ – documentation and metadata files
+
 ---
 
 ## References
